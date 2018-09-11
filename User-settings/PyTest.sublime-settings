@@ -1,0 +1,5 @@
+{
+  "pytest": "/Users/anson.kee/.virtualenvs/$project_base_name/bin/py.test",
+  "mode": "auto",
+  "options": "--tb=auto -l"
+}

@@ -1,0 +1,504 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Forum",
+				"ForumJobsServiceHost"
+			],
+			[
+				"DevService",
+				"DevServiceHost_debug"
+			],
+			[
+				"DEVF",
+				"DEVForumJobs"
+			],
+			[
+				"DevDa",
+				"DevDataImport"
+			],
+			[
+				"for",
+				"format〔function〕"
+			],
+			[
+				"mongo",
+				"mongodblv"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"find",
+				"findminindex"
+			],
+			[
+				"startin",
+				"start_index"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/pythonEmailloggingtool.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/pythonEmailloggingtool.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gstatus",
+				"Git: Status"
+			],
+			[
+				"git log",
+				"Set Syntax: Git Log"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"gar",
+				"Git: Add Remote"
+			],
+			[
+				"gstat",
+				"Git: Status"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Packc",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"PACKA IN",
+				"Package Control: Install Package"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pacckage",
+				"Package Control: Remove Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Diff All Files"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Toggle"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/anson.kee/code/github/anson1138/python/emailloggingtool"
+	],
+	"file_history":
+	[
+		"/Users/anson.kee/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/anson.kee/code/github/anson1138/python/emailloggingtool/datastore/mysql.py",
+		"/Users/anson.kee/Library/Application Support/Sublime Text 3/Packages/User/pythonEmailloggingtool.sublime-build",
+		"/Users/anson.kee/code/github/anson1138/python/emailloggingtool/main.py",
+		"/Users/anson.kee/code/bitbucket/DevOps/zadara_manager/mssql-t-props/mssql-update-forumjobs-poc.sql",
+		"/Users/anson.kee/code/bitbucket/DevOps/zadara_manager/main_detach_acls_source_dev_nas.py",
+		"/Users/anson.kee/code/bitbucket/DevOps/zadara_manager/dupe.py",
+		"/Users/anson.kee/code/bitbucket/puppet/puppet_qa/hiera/common.yaml",
+		"/Users/anson.kee/code/bitbucket/DevOps/zadara_manager/zadara_migration_plan.txt",
+		"/Users/anson.kee/code/bitbucket/DevOps/zadara_manager/uid-1000000-issue-tracker.txt",
+		"/Users/anson.kee/code/bitbucket/DevOps/zadara_manager/mssql-t-props/mssql-update-forumjobs-prod.sql",
+		"/Users/anson.kee/code/bitbucket/DevOps/zadara_manager/mssql-update-forumjobs-poc.sql",
+		"/Users/anson.kee/code/bitbucket/DevOps/zadara_manager/mssql-update-forumjobs-dev.sql",
+		"/Users/anson.kee/code/bitbucket/puppet/puppet_qa/modules/jobvite_register_dotnet/templates/remotedeployscript.bat.erb",
+		"/Users/anson.kee/code/bitbucket/puppet/puppet_qa/modules/jobvite_register_dotnet/manifests/config.pp",
+		"/Users/anson.kee/code/bitbucket/puppet/puppet_qa/modules/jobvite_register_dotnet/templates/register-dotnet.ps1.erb",
+		"/Users/anson.kee/code/bitbucket/puppet/puppet_qa/hiera/qa.yaml",
+		"/Users/anson.kee/code/bitbucket/DevOps/zadara_manager/ansible_output_fj_tiers.txt",
+		"/Users/anson.kee/code/bitbucket/puppet/puppet_qa/modules/jobvite_common/templates/api-overrides.erb",
+		"/Users/anson.kee/code/bitbucket/puppet/puppet_qa/modules/jobvite_common/manifests/logsvc_overrides.pp",
+		"/Users/anson.kee/code/bitbucket/puppet/puppet_qa/modules/jobvite_common/manifests/log4j.pp",
+		"/Users/anson.kee/code/bitbucket/puppet/puppet_qa/modules/jobvite_common/templates/careersite-overrides.erb",
+		"/Users/anson.kee/code/bitbucket/puppet/puppet_qa/manifests/role-dev.pp",
+		"/Users/anson.kee/code/bitbucket/puppet/puppet_qa/hiera/dev.yaml",
+		"/Users/anson.kee/code/bitbucket/puppet/puppet_qa/modules/jobvite_common/manifests/defaultlog.pp",
+		"/Users/anson.kee/code/bitbucket/puppet/puppet_qa/modules/filebeats/spec/classes/filebeats_spec.rb",
+		"/Users/anson.kee/code/bitbucket/puppet/puppet_qa/files/aws-dev/opt/emailprocessor-overrides.properties",
+		"/Users/anson.kee/Documents/Jobvite/ssl_certs/jviqa/expires-2020-08-02/STAR_jviqa_com.crt",
+		"/Users/anson.kee/code/bitbucket/puppet/puppet_qa/modules/jobvite_iis/manifests/config.pp",
+		"/Users/anson.kee/code/bitbucket/puppet/puppet_qa/modules/jobvite_common/templates/fjmail.web.config.erb",
+		"/Users/anson.kee/code/bitbucket/puppet/puppet_qa/hiera/prod.yaml",
+		"/Users/anson.kee/jobvite-sparkles/sparkleformation/route53/route53_services.rb",
+		"/Users/anson.kee/code/bitbucket/puppet/puppet_qa/hiera.yaml",
+		"/Users/anson.kee/code/bitbucket/puppet/puppet_qa/hiera/poc.yaml",
+		"/Users/anson.kee/code/bitbucket/puppet/puppet_qa/manifests/codedeploy-dev-dc8.pp",
+		"/Users/anson.kee/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/anson.kee/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/anson.kee/code/bitbucket/puppet/puppet_qa/modules/jobvite_sendmail/manifests/cron.pp",
+		"/Users/anson.kee/code/bitbucket/anson1138/zadara_migration/sync_mounts.sh",
+		"/Users/anson.kee/code/bitbucket/anson1138/ruby/practice/mypoly1.rb",
+		"/Users/anson.kee/code/bitbucket/anson1138/ruby/hash_prod_cluster01.rb",
+		"/Users/anson.kee/code/bitbucket/anson1138/ruby/hash_pocesapplication_fixed.rb",
+		"/Users/anson.kee/get_vol_info.py",
+		"/Users/anson.kee/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/anson.kee/blah",
+		"/Users/anson.kee/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/private/var/folders/5c/zqjp89c15ln_r1qp66t9n0pmnlyy6s/T/com.microsoft.Outlook/Outlook Temp/seznam.cz!jviqa.com!1525564800!1525651200.xml",
+		"/private/var/folders/5c/zqjp89c15ln_r1qp66t9n0pmnlyy6s/T/com.microsoft.Outlook/Outlook Temp/test.rb",
+		"/Users/anson.kee/Downloads/harness-delegate-docker/launch-harness-delegate.sh",
+		"/Users/anson.kee/Desktop/datateam.json",
+		"/Users/anson.kee/Desktop/mongo-careersite-query-results.txt",
+		"/Users/anson.kee/Downloads/config",
+		"/Users/anson.kee/Downloads/bootstrap-app.sh",
+		"/Users/anson.kee/Documents/Jobvite/bastion-bootstrap.sh",
+		"/Users/anson.kee/Downloads/secrets.prod",
+		"/Users/anson.kee/Downloads/secrets.poc",
+		"/Users/anson.kee/Downloads/secrets.qa",
+		"/Users/anson.kee/Downloads/secrets.dev",
+		"/Users/anson.kee/Downloads/bootstrap-app (1).sh",
+		"/Users/anson.kee/code/bitbucket/DevOps/admin_scripts/powershell/copy7zdll-prod.ps1",
+		"/Users/anson.kee/Downloads/joindomain-update.sh",
+		"/Users/anson.kee/Downloads/joindomain (1).sh",
+		"/Users/anson.kee/Desktop/appdynamicsconfig.xml",
+		"/Users/anson.kee/Desktop/appdynamicsstaging.xml",
+		"/Users/anson.kee/Downloads/harness-delegate 4/start.sh",
+		"/Users/anson.kee/Downloads/testanson-vmxn3cnbx1bnxoqz/userdata.ps1",
+		"/Users/anson.kee/Desktop/userdata-sparke.ps1",
+		"/Users/anson.kee/Desktop/userdata-windows-powershell",
+		"/Users/anson.kee/Downloads/winrm.ps1",
+		"/Users/anson.kee/code/bitbucket/puppet/puppet_prod/files/poc-ob/etc/tomcat8/server.xml-ob",
+		"/Users/anson.kee/Downloads/2017-03-02-16-48-poc_escluster01_datanode.json",
+		"/Users/anson.kee/Desktop/actuate.rb",
+		"/Users/anson.kee/Desktop/dataexport-common-elb.rb",
+		"/Users/anson.kee/Desktop/common_route_53.rb",
+		"/Users/anson.kee/Desktop/dataexport-registry.rb",
+		"/Users/anson.kee/Desktop/dataexport-main.rb",
+		"/Users/anson.kee/Desktop/macrowave.php",
+		"/Users/anson.kee/Desktop/jenkinsDeploy-master.rb",
+		"/Users/anson.kee/Desktop/spotsub.rb",
+		"/Users/anson.kee/Downloads/doit.py",
+		"/Users/anson.kee/Downloads/bootstrap-install-sparkleformation",
+		"/Users/anson.kee/code/bitbucket/puppet/puppet_qa/files/qa-ob/etc/tomcat8/server.xml-ob",
+		"/Users/anson.kee/Documents/svn/puppetManifestsProd/nodes.pp",
+		"/Users/anson.kee/Documents/svn/puppetManifestsProd/poc-ob.pp",
+		"/Users/anson.kee/Documents/svn/puppetManifestsQA/codedeploy-nodes.pp",
+		"/Users/anson.kee/Documents/svn/puppetManifestsQA/codedeploy-qa.pp",
+		"/Users/anson.kee/Documents/svn/puppetManifestsQA/codedeploy-qa-ob.pp",
+		"/Users/anson.kee/Documents/svn/puppetManifestsQA/codedeploy-qa-temp.pp",
+		"/Users/anson.kee/Documents/svn/puppetManifestsQA/codedeploy-nodes-ob.pp",
+		"/Users/anson.kee/Downloads/joindomain-ob.sh",
+		"/Users/anson.kee/Downloads/bootstrap-codedeploy-qa",
+		"/Users/anson.kee/Downloads/dc3.pem",
+		"/Users/anson.kee/Downloads/elasticsearch-template.json",
+		"/Users/anson.kee/code/bitbucket/DevOps/python/gameoflife.py",
+		"/Users/anson.kee/Downloads/myelastic.py",
+		"/Users/anson.kee/Downloads/blah.py",
+		"/Users/anson.kee/Downloads/bootstrap-codedeploy-qa (1)",
+		"/Users/anson.kee/Downloads/myelastic2.py",
+		"/Users/anson.kee/Downloads/myelastic3.py",
+		"/Users/anson.kee/Downloads/dragent.aq.yaml",
+		"/Users/anson.kee/Downloads/STAR_jobvite_com/STAR_jobvite_com.crt",
+		"/Users/anson.kee/Downloads/aws-elastic-search-access-policy-orig.txt",
+		"/Users/anson.kee/Downloads/dragent.yaml",
+		"/Users/anson.kee/code/bitbucket/DevOps/cookbooks/jobvite-ebs/recipes/default.rb",
+		"/Users/anson.kee/code/bitbucket/DevOps/cookbooks/jobvite-ebs/libraries/ebs.rb",
+		"/Users/anson.kee/Documents/jobvite-mongo-mongo.rb",
+		"/Users/anson.kee/Downloads/driveJVPortal.sh",
+		"/Users/anson.kee/Downloads/STAR_jviqa_com (2)/STAR_jviqa_com.crt",
+		"/Users/anson.kee/Downloads/STAR_jviqa_com (2)/STAR_jviqa_com.ca-bundle",
+		"/Users/anson.kee/Downloads/aws-prod-backend-58.aws.jobvite.com-07052016T1404-catalina.out 3",
+		"/Users/anson.kee/code/python/zadara-mounted-hosts.txt",
+		"/Users/anson.kee/code/bitbucket/DevOps/jobvite-sparkles/sparkleformation/dynamics/chef_controller.rb",
+		"/Users/anson.kee/code/bitbucket/DevOps/jobvite-sparkles/sparkleformation/chef_stack.rb",
+		"/Users/anson.kee/Documents/selectionSort.rb",
+		"/Users/anson.kee/Documents/svn/qaPuppetConfigs/qa-solr.pp",
+		"/Users/anson.kee/Documents/svn/qaPuppetConfigs/codedeploy-dev.pp",
+		"/Users/anson.kee/Documents/svn/qaPuppetConfigs/site.pp",
+		"/Users/anson.kee/Documents/svn/qaPuppetConfigs/codedeploy-qa.pp",
+		"/Users/anson.kee/Documents/svn/qaPuppetConfigs/nodes.pp",
+		"/Users/anson.kee/Documents/svn/nagiosApache/cgipw/r.qa",
+		"/Users/anson.kee/Documents/svn/qaPuppetFilesDefault/root/registercodedeploy.sh",
+		"/Users/anson.kee/Documents/svn/qaPuppetFilesDefault/root/registercodedeploy-tomcat8.sh",
+		"/Users/anson.kee/Documents/svn/nagiosApache/cgipw/r.dev",
+		"/Users/anson.kee/Documents/svn/nagiosApache/cgipw/r.new",
+		"/Users/anson.kee/Documents/svn/qaPuppetConfigs/codedeploy-nodes.pp",
+		"/Users/anson.kee/Documents/svn/nagiosApache/cgipw/tag.dev",
+		"/Users/anson.kee/Documents/svn/qaPuppetFilesDefault/root/register",
+		"/Users/anson.kee/Documents/prod-poc-ec2-instances.txt"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 292.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 132.0
+	},
+	"output.git-commit":
+	{
+		"height": 120.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/pythonEmailloggingtool.sublime-build",
+	"project": "emailloggingtool.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mypoly",
+				"~/code/bitbucket/anson1138/ruby/practice/mypoly1.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 337.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"build_systems":
+	[
+		{
+			"cmd":
+			[
+				"/Users/anson.kee/.virtualenvs/$project_base_name/bin/python",
+				"-u",
+				"$file"
+			],
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "emailloggingtool"
+		},
+		{
+			"cmd":
+			[
+				"/Users/anson.kee/.virtualenvs/$project_base_name/bin/pytest",
+				"$file"
+			],
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "emailloggingtool-test"
+		},
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"python\" -u \"$file\""
+		}
+	],
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	]
+}
